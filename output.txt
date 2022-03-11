@@ -1,0 +1,156 @@
+STATISTICS
+total amount of words: 469225
+couldn't recognize: 54620, that's 11,640471 percent
+omonims: 126340, that's 26,925249 percent
+accuracy 61,434280
+MOST FREQUENT LEMMAS
+#lemma 37409 "в": [PREP]
+	forms: [["в": [], "во": [Vpre]]]
+occurrences : 23399
+#lemma 166264 "на": [PREP]
+	forms: [["на": []]]
+occurrences : 10851
+#lemma 116949 "и": [CONJ]
+	forms: [["и": []]]
+occurrences : 10117
+#lemma 241240 "по": [PREP]
+	forms: [["по": []]]
+occurrences : 6156
+#lemma 72149 "год": [NOUN, inan, masc]
+	forms: [["год": [sing, nomn], "года": [sing, gen1], "году": [sing, datv], "год": [sing, accs], "годом": [sing, ablt], "годе": [sing, loc1], "году": [sing, loc2], "года": [plur, nomn, Infr], "годы": [plur, nomn], "лета": [plur, nomn], "годов": [plur, gent], "лет": [plur, gent], "годам": [plur, datv], "года": [plur, accs, Infr], "годы": [plur, accs], "годами": [plur, ablt], "годах": [plur, loct], "году": [sing, gen2], "гг": [plur, nomn, Abbr], "гг": [plur, gent, Abbr], "гг": [plur, datv, Abbr], "гг": [plur, accs, Abbr], "гг": [plur, ablt, Abbr], "гг": [plur, loct, Abbr], "летам": [plur, datv], "лета": [plur, accs], "летами": [plur, ablt], "летах": [plur, loct]]]
+occurrences : 6068
+#lemma 311151 "с": [PREP]
+	forms: [["с": [], "со": [Vpre]]]
+occurrences : 5928
+#lemma 377004 "что": [CONJ]
+	forms: [["что": [], "што": [Dist]]]
+occurrences : 4789
+#lemma 137146 "компания": [NOUN, inan, femn]
+	forms: [["компания": [sing, nomn], "компании": [sing, gent], "компании": [sing, datv], "компанию": [sing, accs], "компанией": [sing, ablt], "компаниею": [sing, ablt, V-ey], "компании": [sing, loct], "компании": [plur, nomn], "компаний": [plur, gent], "компаниям": [plur, datv], "компании": [plur, accs], "компаниями": [plur, ablt], "компаниях": [plur, loct]]]
+occurrences : 4785
+#lemma 192977 "о": [PREP]
+	forms: [["о": [], "об": [Vpre], "обо": [Vpre, Infr]]]
+occurrences : 4208
+#lemma 386575 "это": [NPRO, neut]
+	forms: [["это": [sing, nomn], "этого": [sing, gent], "этому": [sing, datv], "это": [sing, accs], "этим": [sing, ablt], "этом": [sing, loct]]]
+occurrences : 2923
+#lemma 37265 "есть": [VERB, impf, intr]
+	forms: [["есть": [sing, 3per, pres, indc], "суть": [plur, 3per, pres, indc, Arch], "есть": [plur, 3per, pres, indc], "был": [masc, sing, past, indc], "была": [femn, sing, past, indc], "было": [neut, sing, past, indc], "были": [plur, past, indc], "буду": [sing, 1per, futr, indc], "будем": [plur, 1per, futr, indc], "будешь": [sing, 2per, futr, indc], "будете": [plur, 2per, futr, indc], "будет": [sing, 3per, futr, indc], "будут": [plur, 3per, futr, indc], "будем": [sing, impr, incl], "будь": [sing, impr, excl], "будьте": [plur, impr, excl], "е": [sing, Abbr, 3per, pres, indc], "есмь": [sing, 1per, pres, indc, Arch]]]
+occurrences : 2842
+#lemma 287340 "процент": [NOUN, inan, masc]
+	forms: [["процент": [sing, nomn], "процента": [sing, gent], "проценту": [sing, datv], "процент": [sing, accs], "процентом": [sing, ablt], "проценте": [sing, loct], "проценты": [plur, nomn], "процентов": [plur, gent], "процентам": [plur, datv], "проценты": [plur, accs], "процентами": [plur, ablt], "процентах": [plur, loct]]]
+occurrences : 2830
+#lemma 178876 "не": [PRCL]
+	forms: [["не": []]]
+occurrences : 2816
+#lemma 309322 "россия": [NOUN, inan, femn, Sgtm, Geox]
+	forms: [["россия": [sing, nomn], "россии": [sing, gent], "россии": [sing, datv], "россию": [sing, accs], "россией": [sing, ablt], "россии": [sing, loct]]]
+occurrences : 2786
+#lemma 309319 "российский": [ADJF]
+	forms: [["российский": [masc, sing, nomn], "российского": [masc, sing, gent], "российскому": [masc, sing, datv], "российского": [anim, masc, sing, accs], "российский": [inan, masc, sing, accs], "российским": [masc, sing, ablt], "российском": [masc, sing, loct], "российская": [femn, sing, nomn], "российской": [femn, sing, gent], "российской": [femn, sing, datv], "российскую": [femn, sing, accs], "российской": [femn, sing, ablt], "российскою": [femn, sing, ablt, V-oy], "российской": [femn, sing, loct], "российское": [neut, sing, nomn], "российского": [neut, sing, gent], "российскому": [neut, sing, datv], "российское": [neut, sing, accs], "российским": [neut, sing, ablt], "российском": [neut, sing, loct], "российские": [plur, nomn], "российских": [plur, gent], "российским": [plur, datv], "российских": [anim, plur, accs], "российские": [inan, plur, accs], "российскими": [plur, ablt], "российских": [plur, loct]]]
+occurrences : 2359
+#lemma 160237 "миллиард": [NOUN, inan, masc]
+	forms: [["миллиард": [sing, nomn], "миллиарда": [sing, gent], "миллиарду": [sing, datv], "миллиард": [sing, accs], "миллиардом": [sing, ablt], "миллиарде": [sing, loct], "миллиарды": [plur, nomn], "миллиардов": [plur, gent], "миллиардам": [plur, datv], "миллиарды": [plur, accs], "миллиардами": [plur, ablt], "миллиардах": [plur, loct]]]
+occurrences : 2306
+#lemma 141203 "который": [ADJF, Apro, Subx, Anph]
+	forms: [["который": [masc, sing, nomn], "которого": [masc, sing, gent], "которому": [masc, sing, datv], "который": [inan, masc, sing, accs], "которого": [anim, masc, sing, accs], "которым": [masc, sing, ablt], "котором": [masc, sing, loct], "которая": [femn, sing, nomn], "которой": [femn, sing, gent], "которой": [femn, sing, datv], "которую": [femn, sing, accs], "которой": [femn, sing, ablt], "которой": [femn, sing, loct], "которое": [neut, sing, nomn], "которого": [neut, sing, gent], "которому": [neut, sing, datv], "которое": [neut, sing, accs], "которым": [neut, sing, ablt], "котором": [neut, sing, loct], "которые": [plur, nomn], "которых": [plur, gent], "которым": [plur, datv], "которые": [inan, plur, accs], "которых": [anim, plur, accs], "которыми": [plur, ablt], "которых": [plur, loct]]]
+occurrences : 2289
+#lemma 309744 "рубль": [NOUN, inan, masc]
+	forms: [["рубль": [sing, nomn], "рубля": [sing, gent], "рублю": [sing, datv], "рубль": [sing, accs], "рублём": [sing, ablt], "рубле": [sing, loct], "рубли": [plur, nomn], "рублей": [plur, gent], "рублям": [plur, datv], "рубли": [plur, accs], "рублями": [plur, ablt], "рублях": [plur, loct]]]
+occurrences : 2169
+#lemma 98043 "за": [PREP]
+	forms: [["за": []]]
+occurrences : 2149
+#lemma 85153 "до": [PREP]
+	forms: [["до": []]]
+occurrences : 2143
+#lemma 85026 "для": [GRND, impf, tran]
+	forms: [["для": [pres], "длив": [past], "дливши": [past, V-sh]]]
+occurrences : 1976
+#lemma 117677 "из": [PREP]
+	forms: [["из": [], "изо": [Vpre]]]
+occurrences : 1939
+#lemma 88047 "доллар": [NOUN, inan, masc]
+	forms: [["доллар": [sing, nomn], "доллара": [sing, gent], "доллару": [sing, datv], "доллар": [sing, accs], "долларом": [sing, ablt], "долларе": [sing, loct], "доллары": [plur, nomn], "долларов": [plur, gent], "долларам": [plur, datv], "доллары": [plur, accs], "долларами": [plur, ablt], "долларах": [plur, loct]]]
+occurrences : 1596
+#lemma 127460 "к": [PREP]
+	forms: [["к": [], "ко": [Vpre]]]
+occurrences : 1578
+#lemma 342482 "также": [PRCL]
+	forms: [["также": []]]
+occurrences : 1546
+#lemma 160260 "миллион": [NOUN, inan, masc]
+	forms: [["миллион": [sing, nomn], "миллиона": [sing, gent], "миллиону": [sing, datv], "миллион": [sing, accs], "миллионом": [sing, ablt], "миллионе": [sing, loct], "миллионы": [plur, nomn], "миллионов": [plur, gent], "миллионам": [plur, datv], "миллионы": [plur, accs], "миллионами": [plur, ablt], "миллионах": [plur, loct]]]
+occurrences : 1498
+#lemma 65788 "газ": [NOUN, inan, masc]
+	forms: [["газ": [sing, nomn], "газа": [sing, gen1], "газу": [sing, gen2], "газу": [sing, datv], "газ": [sing, accs], "газом": [sing, ablt], "газе": [sing, loc1], "газы": [plur, nomn], "газов": [plur, gent], "газам": [plur, datv], "газы": [plur, accs], "газами": [plur, ablt], "газах": [plur, loct], "газу": [sing, loc2]]]
+occurrences : 1464
+#lemma 206541 "он": [NPRO, masc, 3per, Anph]
+	forms: [["он": [sing, nomn], "его": [sing, gent], "него": [sing, gent, Af-p], "ему": [sing, datv], "нему": [sing, datv, Af-p], "его": [sing, accs], "него": [sing, accs, Af-p], "им": [sing, ablt], "ним": [sing, ablt, Af-p], "нём": [sing, loct, Af-p]]]
+occurrences : 1363
+#lemma 211644 "от": [PREP]
+	forms: [["от": [], "ото": [Vpre]]]
+occurrences : 1355
+#lemma 51 "а": [CONJ]
+	forms: [["а": []]]
+occurrences : 1348
+#lemma 279545 "проект": [NOUN, inan, masc]
+	forms: [["проект": [sing, nomn], "проекта": [sing, gent], "проекту": [sing, datv], "проект": [sing, accs], "проектом": [sing, ablt], "проекте": [sing, loct], "проекты": [plur, nomn], "проектов": [plur, gent], "проектам": [plur, datv], "проекты": [plur, accs], "проектами": [plur, ablt], "проектах": [plur, loct]]]
+occurrences : 1230
+#lemma 128190 "как": [CONJ]
+	forms: [["как": [], "како": [Infr], "к": [Abbr]]]
+occurrences : 1230
+#lemma 352230 "тысяча": [NOUN, inan, femn]
+	forms: [["тысяча": [sing, nomn], "тысячи": [sing, gent], "тысяче": [sing, datv], "тысячу": [sing, accs], "тысячей": [sing, ablt], "тысячею": [sing, ablt, V-ey], "тысяче": [sing, loct], "тысячи": [plur, nomn], "тысяч": [plur, gent], "тысячам": [plur, datv], "тысячи": [plur, accs], "тысячами": [plur, ablt], "тысячах": [plur, loct], "тысячью": [sing, ablt, Infr]]]
+occurrences : 1171
+#lemma 66206 "газпром": [NOUN, inan, masc, Orgn]
+	forms: [["газпром": [sing, nomn], "газпрома": [sing, gent], "газпрому": [sing, datv], "газпром": [sing, accs], "газпромом": [sing, ablt], "газпроме": [sing, loct], "газпромы": [plur, nomn], "газпромов": [plur, gent], "газпромам": [plur, datv], "газпромы": [plur, accs], "газпромами": [plur, ablt], "газпромах": [plur, loct]]]
+occurrences : 1134
+#lemma 235765 "пру": [VERB, impf, tran]
+	forms: [["пру": [sing, 1per, pres, indc], "прём": [plur, 1per, pres, indc], "прёшь": [sing, 2per, pres, indc], "прёте": [plur, 2per, pres, indc], "прёт": [sing, 3per, pres, indc], "прут": [plur, 3per, pres, indc], "пёр": [masc, sing, past, indc], "пёрла": [femn, sing, past, indc], "пёрло": [neut, sing, past, indc], "пёрли": [plur, past, indc], "при": [sing, impr, excl], "прите": [plur, impr, excl]]]
+occurrences : 1109
+#lemma 42156 "весь": [ADJF, Subx, Apro]
+	forms: [["весь": [masc, sing, nomn], "всего": [masc, sing, gent], "всему": [masc, sing, datv], "весь": [inan, masc, sing, accs], "всего": [anim, masc, sing, accs], "всем": [masc, sing, ablt], "всём": [masc, sing, loct], "вся": [femn, sing, nomn], "всей": [femn, sing, gent], "всея": [femn, sing, gent, Arch], "всей": [femn, sing, datv], "всю": [femn, sing, accs], "всей": [femn, sing, ablt], "всей": [femn, sing, loct], "всё": [neut, sing, nomn], "всего": [neut, sing, gent], "всему": [neut, sing, datv], "всё": [neut, sing, accs], "всем": [neut, sing, ablt], "всём": [neut, sing, loct], "все": [plur, nomn], "всех": [plur, gent], "всем": [plur, datv], "все": [inan, plur, accs], "всех": [anim, plur, accs], "всеми": [plur, ablt], "всех": [plur, loct], "вся": [plur, nomn, Arch], "вся": [plur, gent, Arch], "вся": [plur, datv, Arch], "вся": [plur, accs, Arch], "вся": [plur, ablt, Arch], "вся": [plur, loct, Arch]]]
+occurrences : 1096
+#lemma 310781 "рынок": [NOUN, inan, masc]
+	forms: [["рынок": [sing, nomn], "рынка": [sing, gent], "рынку": [sing, datv], "рынок": [sing, accs], "рынком": [sing, ablt], "рынке": [sing, loct], "рынки": [plur, nomn], "рынков": [plur, gent], "рынкам": [plur, datv], "рынки": [plur, accs], "рынками": [plur, ablt], "рынках": [plur, loct]]]
+occurrences : 1051
+#lemma 386581 "этот": [ADJF, Subx, Apro, Anph]
+	forms: [["этот": [masc, sing, nomn], "этого": [masc, sing, gent], "этому": [masc, sing, datv], "этот": [inan, masc, sing, accs], "этого": [anim, masc, sing, accs], "этим": [masc, sing, ablt], "этом": [masc, sing, loct], "эта": [femn, sing, nomn], "этой": [femn, sing, gent], "этой": [femn, sing, datv], "эту": [femn, sing, accs], "этой": [femn, sing, ablt], "этой": [femn, sing, loct], "это": [neut, sing, nomn], "этого": [neut, sing, gent], "этому": [neut, sing, datv], "это": [neut, sing, accs], "этим": [neut, sing, ablt], "этом": [neut, sing, loct], "эти": [plur, nomn], "этих": [plur, gent], "этим": [plur, datv], "эти": [inan, plur, accs], "этих": [anim, plur, accs], "этими": [plur, ablt], "этих": [plur, loct], "этою": [femn, sing, ablt, V-oy]]]
+occurrences : 1031
+#lemma 356365 "украина": [NOUN, inan, femn, Sgtm, Geox]
+	forms: [["украина": [sing, nomn], "украины": [sing, gent], "украине": [sing, datv], "украину": [sing, accs], "украиной": [sing, ablt], "украиною": [sing, ablt, V-oy], "украине": [sing, loct]]]
+occurrences : 1025
+#lemma 94208 "его": [ADJF, Fixd, Apro, Anph]
+	forms: [["его": [masc, sing, nomn], "его": [masc, sing, gent], "его": [masc, sing, datv], "его": [masc, sing, accs], "его": [masc, sing, ablt], "его": [masc, sing, loct], "его": [femn, sing, nomn], "его": [femn, sing, gent], "его": [femn, sing, datv], "его": [femn, sing, accs], "его": [femn, sing, ablt], "его": [femn, sing, loct], "его": [neut, sing, nomn], "его": [neut, sing, gent], "его": [neut, sing, datv], "его": [neut, sing, accs], "его": [neut, sing, ablt], "его": [neut, sing, loct], "его": [plur, nomn], "его": [plur, gent], "его": [plur, datv], "его": [plur, accs], "его": [plur, ablt], "его": [plur, loct]]]
+occurrences : 995
+#lemma 325168 "слово": [NOUN, inan, neut]
+	forms: [["слово": [sing, nomn], "слова": [sing, gent], "слову": [sing, datv], "слово": [sing, accs], "словом": [sing, ablt], "слове": [sing, loct], "слова": [plur, nomn], "слов": [plur, gent], "словам": [plur, datv], "слова": [plur, accs], "словами": [plur, ablt], "словах": [plur, loct]]]
+occurrences : 985
+#lemma 316379 "свой": [ADJF, Apro, Anph]
+	forms: [["свой": [masc, sing, nomn], "своего": [masc, sing, gent], "своему": [masc, sing, datv], "свой": [inan, masc, sing, accs], "своего": [anim, masc, sing, accs], "своим": [masc, sing, ablt], "своём": [masc, sing, loct], "своя": [femn, sing, nomn], "своей": [femn, sing, gent], "своей": [femn, sing, datv], "свою": [femn, sing, accs], "своей": [femn, sing, ablt], "своею": [femn, sing, ablt, V-ey], "своей": [femn, sing, loct], "своё": [neut, sing, nomn], "своего": [neut, sing, gent], "своему": [neut, sing, datv], "своё": [neut, sing, accs], "своим": [neut, sing, ablt], "своём": [neut, sing, loct], "свои": [plur, nomn], "своих": [plur, gent], "своим": [plur, datv], "свои": [inan, plur, accs], "своих": [anim, plur, accs], "своими": [plur, ablt], "своих": [plur, loct]]]
+occurrences : 946
+#lemma 2611 "авиакомпания": [NOUN, inan, femn]
+	forms: [["авиакомпания": [sing, nomn], "авиакомпании": [sing, gent], "авиакомпании": [sing, datv], "авиакомпанию": [sing, accs], "авиакомпанией": [sing, ablt], "авиакомпаниею": [sing, ablt, V-ey], "авиакомпании": [sing, loct], "авиакомпании": [plur, nomn], "авиакомпаний": [plur, gent], "авиакомпаниям": [plur, datv], "авиакомпании": [plur, accs], "авиакомпаниями": [plur, ablt], "авиакомпаниях": [plur, loct]]]
+occurrences : 945
+#lemma 7961 "акция": [NOUN, inan, femn]
+	forms: [["акция": [sing, nomn], "акции": [sing, gent], "акции": [sing, datv], "акцию": [sing, accs], "акцией": [sing, ablt], "акциею": [sing, ablt, V-ey], "акции": [sing, loct], "акции": [plur, nomn], "акций": [plur, gent], "акциям": [plur, datv], "акции": [plur, accs], "акциями": [plur, ablt], "акциях": [plur, loct]]]
+occurrences : 933
+#lemma 278949 "продажа": [NOUN, inan, femn]
+	forms: [["продажа": [sing, nomn], "продажи": [sing, gent], "продаже": [sing, datv], "продажу": [sing, accs], "продажей": [sing, ablt], "продажею": [sing, ablt, V-ey], "продаже": [sing, loct], "продажи": [plur, nomn], "продаж": [plur, gent], "продажам": [plur, datv], "продажи": [plur, accs], "продажами": [plur, ablt], "продажах": [plur, loct]]]
+occurrences : 928
+#lemma 329556 "сообщил": [VERB, perf, tran]
+	forms: [["сообщил": [masc, sing, past, indc], "сообщила": [femn, sing, past, indc], "сообщило": [neut, sing, past, indc], "сообщили": [plur, past, indc], "сообщу": [sing, 1per, futr, indc], "сообщим": [plur, 1per, futr, indc], "сообщишь": [sing, 2per, futr, indc], "сообщите": [plur, 2per, futr, indc], "сообщит": [sing, 3per, futr, indc], "сообщат": [plur, 3per, futr, indc], "сообщим": [sing, impr, incl], "сообщимте": [plur, impr, incl], "сообщи": [sing, impr, excl], "сообщите": [plur, impr, excl]]]
+occurrences : 922
+#lemma 337100 "страна": [NOUN, inan, femn]
+	forms: [["страна": [sing, nomn], "страны": [sing, gent], "стране": [sing, datv], "страну": [sing, accs], "страной": [sing, ablt], "страною": [sing, ablt, V-oy], "стране": [sing, loct], "страны": [plur, nomn], "стран": [plur, gent], "странам": [plur, datv], "страны": [plur, accs], "странами": [plur, ablt], "странах": [plur, loct]]]
+occurrences : 907
+#lemma 338918 "суд": [NOUN, inan, masc]
+	forms: [["суд": [sing, nomn], "суда": [sing, gent], "суду": [sing, datv], "суд": [sing, accs], "судом": [sing, ablt], "суде": [sing, loct], "суды": [plur, nomn], "судов": [plur, gent], "судам": [plur, datv], "суды": [plur, accs], "судами": [plur, ablt], "судах": [plur, loct]]]
+occurrences : 900
+#lemma 329538 "сообщаю": [VERB, impf, tran]
+	forms: [["сообщаю": [sing, 1per, pres, indc], "сообщаем": [plur, 1per, pres, indc], "сообщаешь": [sing, 2per, pres, indc], "сообщаете": [plur, 2per, pres, indc], "сообщает": [sing, 3per, pres, indc], "сообщают": [plur, 3per, pres, indc], "сообщал": [masc, sing, past, indc], "сообщала": [femn, sing, past, indc], "сообщало": [neut, sing, past, indc], "сообщали": [plur, past, indc], "сообщай": [sing, impr, excl], "сообщайте": [plur, impr, excl]]]
+occurrences : 894
+#lemma 386574 "это": [PRCL]
+	forms: [["это": []]]
+occurrences : 879
