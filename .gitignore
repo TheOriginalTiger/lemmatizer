@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/gradle,intellij+all,java
-# Edit at https://www.toptal.com/developers/gitignore?templates=gradle,intellij+all,java
+# Created by https://www.toptal.com/developers/gitignore/api/gradle,java,intellij+all
+# Edit at https://www.toptal.com/developers/gitignore?templates=gradle,java,intellij+all
 
 ### Intellij+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
@@ -139,4 +139,4 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# End of https://www.toptal.com/developers/gitignore/api/gradle,intellij+all,java
+# End of https://www.toptal.com/developers/gitignore/api/gradle,java,intellij+all
